@@ -18,4 +18,4 @@
 	url = https://github.com/michg/riscv32_beluga.git
 [submodule "linux"]
 	path = linux
-	url = git@github.com:PiMaker/linux-rvc.git
+	url = git@rvc_ssh:PiMaker/linux-rvc.git
